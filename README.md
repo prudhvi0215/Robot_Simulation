@@ -1,24 +1,5 @@
-# README
+Assignment 3 : Robot Simulation App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Assignment was really challenging and learnt alot while solving and followed the given pdf and implemented accordingly.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![robot1](https://user-images.githubusercontent.com/53406891/223359695-a3a898a9-eaf8-4fa1-9f8d-280b1d662d1e.png)
